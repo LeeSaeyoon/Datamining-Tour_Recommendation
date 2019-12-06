@@ -1,5 +1,5 @@
 # 관광 데이터 분석을 통한 해외여행지 추천 시스템
-Travel destination recommendation system
+: [Python] Travel destination recommendation system
 
 ![title](./image/title.PNG)
 
